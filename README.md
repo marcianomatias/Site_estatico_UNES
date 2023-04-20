@@ -37,7 +37,7 @@ Como Utilizar
 Para utilizar o site, basta abrir o arquivo index.html em um navegador da web compatível com HTML5 e CSS3. A partir daí, os usuários podem navegar pelas diferentes páginas do site usando os botões de navegação.
 Contribuindo
 
-Este site é um projeto em constante evolução. Se você gostaria de contribuir para o desenvolvimento do site da UNEs, por favor, envie um e-mail para a equipe de desenvolvimento em desenvolvimento@unes.com.br.
+Este site é um projeto em constante evolução. Se você gostaria de contribuir para o desenvolvimento do site da UNES, por favor, envie um e-mail para a equipe de desenvolvimento em marcianomatias1@hotmail.com.
 Licença
 
-Este site é de propriedade da Universidade Estadual de Ensino Superior (UNEs). É permitido o uso e a modificação deste site para fins educacionais e não comerciais. É proibido o uso deste site para fins comerciais sem a autorização expressa da UNEs.
+Este site é de propriedade de Marciano Matias dos Santos. É permitido o uso e a modificação deste site para fins educacionais e não comerciais. É proibido o uso deste site para fins comerciais sem a autorização expressa de Marciano Matias.
